@@ -1,4 +1,7 @@
-![Alessandro as mobile developer](https://raw.githubusercontent.com/deje0014/deje0014/main/Github.png)
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/72152264/207202669-8a4ea1b6-12d1-41d7-81ac-185a4170e4ed.gif" />
+  </div>
 
 ## Hey there, I'm Alessandro! 👋
 
